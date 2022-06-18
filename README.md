@@ -1,6 +1,9 @@
 # tweet-hack-analyse
 ## Ne işe yarar
-Bu repository 24 saat içerisinde belli bir keyword hakkında yayınlanan tweetleri almak içindir. main.py dosyasındaki `keyword="hacked"` satırını düzenleyerek target değiştirebilirsiniz. 
+Bu repository 24 saat içerisinde belli bir keyword hakkında yayınlanan tweetleri almak içindir. Tüm bilgiler flask tarafından tarayıcı için render edilir komut satırıyla uğraşılmasına gerek kalmaz. 
+
+
+Not:`main.py`dosyasındaki `keyword="hacked"` satırını düzenleyerek target değiştirebilirsiniz. 
 
 ## Kurulum
 Kurulum için öncelikle python3 gerekmektedir. python3'ü kurmak için:
